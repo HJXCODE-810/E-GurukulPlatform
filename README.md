@@ -73,13 +73,15 @@ pip install -r requirements.txt   # For backend (Flask/Python)
 npm run dev   # For frontend
 # or
 flask run     # For backend
-📌 Future Enhancements
-🤖 AI-based performance recommendation system.
+```
 
-💬 Chat/Discussion forum between students and teachers.
+## 📌 Future Enhancements
+🤖 **AI-based performance recommendation system.**
 
-🔔 Push notifications for lectures/tests.
+💬 **Chat/Discussion forum between students and teachers.**
 
-📱 Mobile-friendly app version.
+🔔 **Push notifications for lectures/tests.**
 
-🌐 AI-based Live Translation using Sarvam AI.
+📱 **Mobile-friendly app version.**
+
+🌐 **AI-based Live Translation using Sarvam AI.**
